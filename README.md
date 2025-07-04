@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Saurabh Aryal
-- 👀 I’m interested in web designing
+- 👀 I’m interested in web designing and AI/ML
 - 🌱 I’m currently learning backend development with node.js
 - 💞️ I’m looking to collaborate on  project with react
 - 📫 How to reach me   ..mail: aryalsaurav141@gmail.com
