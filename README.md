@@ -35,7 +35,7 @@
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,mongodb,figma,postman,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,mongodb,figma,postman,docker,git,python" alt="Tech Stack" />
 </p>
 
 ---
