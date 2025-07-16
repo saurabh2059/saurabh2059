@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/saurabh2059"><img src="https://img.shields.io/badge/GitHub-@saurabh2059-181717?style=for-the-badge&logo=github"/></a>
+ 
     <a href="https://www.linkedin.com/in/saurabh-aryal-b326932ab/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Aryal-blue?style=for-the-badge&logo=linkedin"/></a>
 
   <a href="mailto:aryalsaurav141@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
