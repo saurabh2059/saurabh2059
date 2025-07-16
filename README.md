@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
- 
-    <a href="https://www.linkedin.com/in/saurabh-aryal-b326932ab/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Aryal-blue?style=for-the-badge&logo=linkedin"/></a>
-
   <a href="mailto:aryalsaurav141@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
+      <a href="https://www.linkedin.com/in/saurabh-aryal-b326932ab/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Aryal-blue?style=for-the-badge&logo=linkedin"/></a>
+
 </p>
 
 <p align="center">
