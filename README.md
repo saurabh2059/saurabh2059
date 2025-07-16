@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/saurabh2059"><img src="https://img.shields.io/badge/GitHub-@saurabh2059-181717?style=for-the-badge&logo=github"/></a>
+    <a href="https://www.linkedin.com/in/saurabh-aryal-b326932ab/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Aryal-blue?style=for-the-badge&logo=linkedin"/></a>
+
   <a href="mailto:aryalsaurav141@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
@@ -29,13 +31,10 @@
 ## 🛠 Tech Stack & Tools
 
 <p>
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
   <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,mongodb,figma,postman,docker,git" alt="Tech Stack" />
 </p>
