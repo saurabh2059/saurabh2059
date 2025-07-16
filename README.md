@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/saurabh2059"><img src="https://img.shields.io/badge/GitHub-@saurabh2059-181717?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:saurabh2059@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:aryalsaurav141@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 🎓 Computer Science student from Nepal  
 🧠 Passionate about full-stack development, cloud tools, and solving real-world challenges  
-🚀 Exploring the world of e-Governance, AI, and product-based software engineering  
+🚀 Exploring the world of Data Science, AI, and product-based software engineering  
 💬 Ask me about React.js, Node.js, Express, MongoDB, Tailwind, Django, or anything JavaScript!
 
 ---
@@ -57,9 +57,9 @@
 ## 🔥 Fun Extras
 
 - 🎯 Goal: Build apps that empower small businesses and improve local tech culture  
-- 🌱 Currently learning: TypeScript, CI/CD basics, API security  
+- 🌱 Currently learning: TypeScript, Node JS
 - 📸 Passionate about coffee, coding, and clean UI  
-- 🎮 Favorite hobbies: Exploring tech trends, photography, and gaming  
+- 🎮 Favorite hobbies: Exploring tech trends, travelling, and gaming  
 
 ---
 
@@ -79,7 +79,7 @@ It'll be the one-stop place to see all my projects and blogs!
 ## 📫 Let's Connect
 
 Got a project, collaboration idea, or just want to say hi?  
-📧 **saurabh2059@gmail.com**
+📧 **aryalsaurav141@gmail.com@gmail.com**
 
 ---
 
