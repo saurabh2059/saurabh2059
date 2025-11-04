@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:aryalsaurav141@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:aryalsaurabh141@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail"/></a>
       <a href="https://www.linkedin.com/in/saurabh-aryal-b326932ab/"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Aryal-blue?style=for-the-badge&logo=linkedin"/></a>
 
 </p>
@@ -32,7 +32,7 @@
 <p>
   
 
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,js,html,css,php,mysql,mongodb,figma,postman,docker,git,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,js,html,css,php,mysql,mongodb,figma,postman,git,python" alt="Tech Stack" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🔥 Fun Extras
 
 - 🎯 Goal: Build apps that empower small businesses and improve local tech culture  
-- 🌱 Currently learning: TypeScript, Node JS
+- 🌱 Currently learning: Data Science & Machine Learning
 - 📸 Passionate about coffee, coding, and clean UI  
 - 🎮 Favorite hobbies: Exploring tech trends, travelling, and gaming  
 
@@ -74,7 +74,7 @@ It'll be the one-stop place to see all my projects and blogs!
 ## 📫 Let's Connect
 
 Got a project, collaboration idea, or just want to say hi?  
-📧 **aryalsaurav141@gmail.com@gmail.com**
+📧 **aryalsaurabh141@gmail.com**
 
 ---
 
